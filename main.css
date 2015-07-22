@@ -1,6 +1,6 @@
 /* Select by tagname */
 h1 {
-  color: red;
+  color: blue;
 }
 
 /* Select by classname */
@@ -26,3 +26,8 @@ div p {
 
 /* Target all p's and a's inside of divs */
 div p, div a {}
+
+.first {
+	font-size: 25
+	
+}
